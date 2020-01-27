@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://amaihoonei.tweetcli.com/sitemap.xml
